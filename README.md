@@ -1,3 +1,5 @@
+<img src="https://github.com/Peter-Ilyash/Peter-Ilyash/blob/main/assets/cover.png">
+
 ### Hi, I'm Peter
 
 ## Developer, Teacher and Mentor
